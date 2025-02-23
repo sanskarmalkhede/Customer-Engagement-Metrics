@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "lastLogin": "2025-02-18",
+      "engagementScore": 78,
+      "retentionCategory": "High"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob@example.com",
+      "lastLogin": "2025-02-14",
+      "engagementScore": 45,
+      "retentionCategory": "Medium"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "email": "charlie@example.com",
+      "lastLogin": "2025-02-10",
+      "engagementScore": 30,
+      "retentionCategory": "Low"
+    },
+    {
+      "id": 4,
+      "name": "Diana Parker",
+      "email": "diana@example.com",
+      "lastLogin": "2025-02-17",
+      "engagementScore": 82,
+      "retentionCategory": "High"
+    },
+    {
+      "id": 5,
+      "name": "Edward Wilson",
+      "email": "edward@example.com",
+      "lastLogin": "2025-02-15",
+      "engagementScore": 67,
+      "retentionCategory": "Medium"
+    },
+    {
+      "id": 6,
+      "name": "Fiona Miller",
+      "email": "fiona@example.com",
+      "lastLogin": "2025-02-16",
+      "engagementScore": 91,
+      "retentionCategory": "High"
+    },
+    {
+      "id": 7,
+      "name": "George Davis",
+      "email": "george@example.com",
+      "lastLogin": "2025-02-12",
+      "engagementScore": 38,
+      "retentionCategory": "Low"
+    },
+    {
+      "id": 8,
+      "name": "Helen Roberts",
+      "email": "helen@example.com",
+      "lastLogin": "2025-02-17",
+      "engagementScore": 73,
+      "retentionCategory": "High"
+    },
+    {
+      "id": 9,
+      "name": "Ian Thompson",
+      "email": "ian@example.com",
+      "lastLogin": "2025-02-13",
+      "engagementScore": 51,
+      "retentionCategory": "Medium"
+    },
+    {
+      "id": 10,
+      "name": "Julia Anderson",
+      "email": "julia@example.com",
+      "lastLogin": "2025-02-18",
+      "engagementScore": 88,
+      "retentionCategory": "High"
+    },
+    {
+      "id": 11,
+      "name": "Kevin White",
+      "email": "kevin@example.com",
+      "lastLogin": "2025-02-11",
+      "engagementScore": 42,
+      "retentionCategory": "Medium"
+    },
+    {
+      "id": 12,
+      "name": "Laura Martinez",
+      "email": "laura@example.com",
+      "lastLogin": "2025-02-09",
+      "engagementScore": 29,
+      "retentionCategory": "Low"
+    },
+    {
+      "id": 13,
+      "name": "Mike Taylor",
+      "email": "mike@example.com",
+      "lastLogin": "2025-02-16",
+      "engagementScore": 76,
+      "retentionCategory": "High"
+    },
+    {
+      "id": 14,
+      "name": "Nancy Lee",
+      "email": "nancy@example.com",
+      "lastLogin": "2025-02-14",
+      "engagementScore": 63,
+      "retentionCategory": "Medium"
+    },
+    {
+      "id": 15,
+      "name": "Oliver Wright",
+      "email": "oliver@example.com",
+      "lastLogin": "2025-02-15",
+      "engagementScore": 85,
+      "retentionCategory": "High"
+    }
+]

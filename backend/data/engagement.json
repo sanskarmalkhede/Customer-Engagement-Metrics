@@ -1,0 +1,33 @@
+{
+  "activeUsers": {
+    "daily": 120,
+    "weekly": 750,
+    "monthly": 3000
+  },
+  "retentionRate": 67.5,
+  "churnPrediction": [
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "email": "charlie@example.com",
+      "churnProbability": 85
+    },
+    {
+      "id": 4,
+      "name": "Dave Williams",
+      "email": "dave@example.com",
+      "churnProbability": 70
+    }
+  ],
+  "aiInsights": {
+    "recommendations": [
+      "Offer a discount to users with low engagement scores.",
+      "Send personalized emails to inactive users.",
+      "Improve the onboarding process to enhance retention."
+    ],
+    "featureUsage": {
+      "mostUsed": ["Dashboard", "Reports"],
+      "underperforming": ["Live Chat", "Help Center"]
+    }
+  }
+}
